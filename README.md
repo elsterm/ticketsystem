@@ -1,4 +1,5 @@
 # Ticketsystem
+[![Tests](https://github.com/elsterm/ticketsystem/actions/workflows/tests.yml/badge.svg)](https://github.com/elsterm/ticketsystem/actions/workflows/tests.yml)
 
 Ein kleines Ticketsystem als Konsolenanwendung in Java, mit automatisierten Tests.
 

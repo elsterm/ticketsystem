@@ -62,4 +62,4 @@ Die Datei `.github/workflows/tests.yml` führt bei jedem Push und jedem Pull Req
 
 ## Autor
 
-Marco Elster · Fachinformatiker Softwareentwicklung (IHK) · [Dein GitHub-Profil]
+Marco Elster · Fachinformatiker Softwareentwicklung (IHK) · github.com/elsterm
